@@ -6,5 +6,6 @@ https://go.dev/dl/
 
 System support list:
 ------------------------------
-centos 7.9
+centos 7.9  
+
 rocky  9.2
